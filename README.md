@@ -27,6 +27,8 @@ Seguindo as etapas da documentação:
  * Importar os dados (selecionar) para o recurso de Azure AI Search criado, nesta etapa 
 você poderá ligar com o recurso de Serviços Cognitivos na etapa "Adicionar habilidades cognitivas (opcional), alem de adicionar enriquecimentos e ativar a opção de OCR.
 
+![alt text](https://github.com/AlexandreSato2023/labdio05/blob/main/AISearchAzure.png?raw=true)
+
 ### Dados de origem para análise:
 
 Os documentos que contém as experiências dos clientes da rede de cafés pode ser encontrado no link:
@@ -35,4 +37,4 @@ Os documentos que contém as experiências dos clientes da rede de cafés pode s
 ### Resultado:
 Resultado após uma pesquisa nos documentos, onde queremos somente os reviews positivos dos clientes da rede de cafés:
 
-![alt text](https://github.com/AlexandreSato2023/labdio04/blob/main/outputs/analise_1.png?raw=true)
+![alt text](https://github.com/AlexandreSato2023/labdio05/blob/main/AISearchResult.png?raw=true)
